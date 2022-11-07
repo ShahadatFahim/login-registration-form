@@ -96,7 +96,7 @@ button{
     position: relative;
 }
 .submit-btn::after{
-    content: \27a41;
+    content: '\27a4';
     color: #333;
     line-height: 32px;
     font-size: 17px;
